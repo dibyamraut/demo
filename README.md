@@ -1,3 +1,3 @@
 # demo
-this is a demo file \n
+this is a demo file 
 author- Dibyam
